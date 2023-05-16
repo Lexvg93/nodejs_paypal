@@ -70,3 +70,6 @@ export const captureOrder = async (req, res) => {
 export const cancelOrder = (req, res) => {
     res.send('cancel an order')
 }
+
+//https://www.youtube.com/watch?v=sBenKZqEzpQ tiempo 1:12:38
+//Se bloqueo la entrada a cuenta de paypal developers
