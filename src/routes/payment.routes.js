@@ -6,7 +6,7 @@ router.get('/',(req,res)=>{
     res.send('hello world')
 })
 
-router.get('/create-order',createOrder)
+router.post('/create-order',createOrder)
 
 router.get('/capture-order',captureOrder)
 

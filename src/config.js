@@ -1,5 +1,6 @@
 
-export const PAYPAL_API_CLIENT = 'AUHlo-Imy3xRki9h2rNuCLk9v12CY76imyam812JZI2RD62NHyyTLErfyt007nRs3b7xdJORs95iJfS3'
-export const PAYPAL_API_SECRET = 'EDW9dM9YZmUMAem19JCqPIzfBP9MMSYDdegThRI442PZNe3_eI77VHUPEmjjP1sVTQJAHAnwGJoArKlp'
+export const PAYPAL_API_CLIENT = 'AayRvBdKR6TePQbM56-iUgdRlTDkH7GEdOqWit0b_cvKAxx3_WlrwLr1FrxuWfDBl79SPneuxs-GgppC'
+export const PAYPAL_API_SECRET = 'EMBxfOTH3NDPclHe7jldeSU9gvYr8q-jMpNt_Csy0VuqXP9SBLFuEOJgreZHJtWEMQXxhU40ky76AEHF'
 export const PAYPAL_API = 'https://api-m.sandbox.paypal.com'
 export const PORT = 3000
+export const HOST = 'http://localhost:3000'
